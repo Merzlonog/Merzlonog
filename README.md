@@ -1,11 +1,11 @@
-<p align="center" font-size="30px">
+<h1 align="center" color="#320b35">
   Hi! I`m Frontend Developer 🖥️
-</p>
+</h1>
 
 ---
 ### 🧑🏻‍💻 Working with:
 
-#### 🖥️ Frontend
+#### Frontend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
