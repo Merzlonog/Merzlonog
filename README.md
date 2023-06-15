@@ -1,8 +1,8 @@
-<h1 align="center" color="#320b35">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=40&pause=1000&color=0B1A99&width=600&height=60&lines=Hi!+I%60m+Frontend+Developer!" alt="Typing SVG" /></a>
-</h1>
+### - ⚡ Zdarova 👋  
+<p align='center'>
+  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+</p>
 
----
 ### 🧑🏻‍💻 Working with:
 
 #### Frontend
