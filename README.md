@@ -1,5 +1,5 @@
-<p align="center">
-  Hi! I`m Frontend Developer/>
+<p align="center" font-size="30px">
+  Hi! I`m Frontend Developer 🖥️
 </p>
 
 ---
